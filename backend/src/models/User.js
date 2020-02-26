@@ -11,7 +11,7 @@ class User extends Model {
     })
   }
   static associate(models) {
-    this.hasMany(models.Article, { foreignKey: 'id', as: 'articles' });
+    this.hasMany(models.Article, { foreignKey: 'author_id', as: 'articles' });
    
   }
 }

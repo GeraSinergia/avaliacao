@@ -10,11 +10,11 @@ module.exports = {
         allowNull: false,
       },
       title: {
-        type: Sequelize.STRING(800),
+        type: Sequelize.TEXT,
         allowNull: false,
       },
       content: {
-        type: Sequelize.STRING(10000),
+        type: Sequelize.TEXT,
         allowNull: false,
       },
       author_id:{
