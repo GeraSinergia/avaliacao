@@ -11,7 +11,7 @@ Esse repositório tem como finalidade receber pull request dos entrevistados par
 #### Como Funciona ?
 O participante deve desenvolver um micro sistema para que nós possamos avaliar o código escrito e o engajamento do participante com a linguagem escolhida.
 
-#### Quais linguagens posso utilizar ?
+#### Quais linguagens posso utilizar ?d
 Se você for um programador Full-Stack você pode usar as seguintes linguagens:
 * MySQL
 * PHP 
